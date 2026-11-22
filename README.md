@@ -19,6 +19,7 @@ This plugin contains text instructions only. It runs no code, connects to no ext
 
 ## License
 MIT. Created by Ricardo Enrique Vargas, actor and producer at Lamparita Films (New Orleans, Louisiana).
+Instagram: [@thericardovargas](https://instagram.com/thericardovargas) · [@lamparitafilms](https://instagram.com/lamparitafilms)
 
 ---
 
