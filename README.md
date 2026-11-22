@@ -18,7 +18,7 @@ After adding it, ask Claude something like: "Help me write a feature about a fem
 This plugin contains text instructions only. It runs no code, connects to no external services, and sends or stores no data outside your conversation with Claude.
 
 ## License
-MIT. Created by Ricardo Enrique Vargas (Lamparita Films).
+MIT. Created by Ricardo Enrique Vargas, actor and producer at Lamparita Films (New Orleans, Louisiana).
 
 ---
 
