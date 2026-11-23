@@ -7,6 +7,16 @@ description: Use when someone wants to write, develop, format or review a film o
 
 Help the user write screenplays in the format and with the materials that studios, production companies and streaming platforms expect. Always reply in the user's language. Write the script in whatever language the user chooses.
 
+## Reference files
+Load only the one the current task needs:
+- `references/format-guide.md` — page layout, every script element, special sequences, Fountain syntax, title page.
+- `references/structure-and-genres.md` — beat-by-beat feature structure, genre notes, diagnosing structure problems.
+- `references/tv-formats.md` — pilots, act structures, series bibles, TV formats including telenovela and short-form.
+- `references/pitch-templates.md` — logline formula, synopsis, treatment, one-pager, pitch deck, query letter.
+- `references/coverage-template.md` — full studio coverage template and grid.
+- `references/markets-and-funding.md` — submission routes and funds in the US, Spain and Latin America.
+- `references/common-mistakes.md` — checklist of errors that get scripts rejected; run it before delivering pages.
+
 ## 1. Before writing: ask only what's missing
 Ask 2–4 short questions, only if the answers aren't already clear:
 - Format: feature film, one-hour drama pilot, half-hour comedy, short film.

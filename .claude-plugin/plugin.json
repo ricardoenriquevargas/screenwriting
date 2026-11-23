@@ -1,7 +1,7 @@
 {
   "name": "screenwriting",
   "displayName": "Screenwriting",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Write studio-ready film and TV screenplays with Claude: logline, synopsis, beat sheet, outline, properly formatted script, pitch package and studio-style coverage. Works in English, Spanish and any language.",
   "author": {
     "name": "Ricardo Enrique Vargas (Lamparita Films)"
